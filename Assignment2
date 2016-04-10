@@ -1,0 +1,13 @@
+public class Assignment2 {
+	
+	int a, b=2, c;
+
+	public static void main(String[] args) {
+		
+		Assignment2 A = new Assignment2();
+		
+		System.out.println("Value of a: " + A.a + " Value of b: " + A.b + " Value of c: " + A.c);
+
+	}
+
+}
